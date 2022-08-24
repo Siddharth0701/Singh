@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32510.428
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCoreWebApi5.0", "PracticeCoreWebApi5.0.csproj", "{DAFC6B1F-A618-4F71-AFA1-8A5F58F53406}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeCoreWebApi5", "PracticeCoreWebApi5.csproj", "{DAFC6B1F-A618-4F71-AFA1-8A5F58F53406}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
